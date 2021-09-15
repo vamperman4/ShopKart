@@ -1,4 +1,4 @@
-git pullimport React from 'react';
+import React from 'react';
 import SignInLogic from 'components/Signin'
 export default function SignIn() {
   return (
